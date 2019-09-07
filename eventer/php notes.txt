@@ -1,0 +1,5 @@
+PHP
+
+strip_tags
+    removes all html tags in the form, used for security purposes
+    ex. $var = strip_tags($var2); 
